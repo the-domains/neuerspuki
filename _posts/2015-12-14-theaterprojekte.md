@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T09:47:38.124Z'
-dateModified: '2015-12-14T09:46:49.884Z'
+datePublished: '2015-12-14T09:51:32.468Z'
+dateModified: '2015-12-14T09:50:02.116Z'
 title: Theaterprojekte
 author: []
 authors: []
