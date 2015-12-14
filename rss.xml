@@ -2,14 +2,55 @@
     <channel>
         <title><![CDATA[Neuer Spuki]]></title>
         <description><![CDATA[Neuer Spuki]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neuerspuki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 10:01:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 10:01:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neuerspuki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Werkverzeichnis]]></title>
+            <description><![CDATA[<article><h1>Werkverzeichnis</h1><p>HERR DER FLIEGEN
+	Staatsschauspiel Dresden (September 2015)
+ 	
+DU HITLER
+	Schnawwl Mannheim (April 2015)
+  
+MERLIN oder DAS WÜSTE LAND
+	Staatsschauspiel Dresden (September 2014)
+  
+NICHTS. Was im Leben wichtig ist 		Schnawwl Mannheim (April 2013)   
+IN WEITER FERNE von Caryl Churchill 		Schauspielhaus Stuttgart (November 2011)
+  
+AMPHYTRION von Heinrich von Kleist 		Schauspielhaus Stuttgart (Januar 2011)
+  
+KAMPF DES NEGERS UND DER HUNDE von Bernard-Marie Koltès 		Schauspielhaus Hannover (Oktober 2010)
+  
+DIE AFFAIRE RUE DE LA LOURCINE von Eugène Labiche
+		Theater Lübeck (März 2010)
+  
+FREMDELN 		Junges Ensemble Stuttgart (Januar 2010)
+  
+ALLE KRIEGEN DICK UND WERDEN KINDER 		Junges Schauspielhaus Hannover (Oktober 2009
+  
+FRESSEN, KAUFEN GASSI, GEHEN von Gabriele Kögl 		Hamburger Schauspielhaus (Mai 2008)
+  
+WERTHER. SPRACHE DER LIEBE 		Theater Lübeck (Januar 2008)
+  
+TÖRLESS nach der Novelle von Robert Musil  		Junges Schauspielhaus, Hamburger Schauspielhaus (Juni 2007) 		„Der Faust“ für Kinder- und Jugendtheaterregie 2008
+  
+FRANKENSTEIN nach dem gleichnamigen Roman von Mary Shelly 		Staatstheater Oldenburg (April 2007) 
+  
+FRÜCHTE DES NICHTS von Ferdinand Bruckner 		Neues Theater Halle (Dezember 2005)
+  
+EIN REIGEN von Arthur Schnitzler 		Theater Erlangen (Juni 2005)
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15d59e2cafb6876a2e8ec74805a71cd35e413ebb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neuerspuki/werkverzeichnis/index.html</link>
+            <guid isPermaLink="false">655da4eb-b1f2-426c-b53a-ea5e9047afdf</guid>
+            <pubDate>Mon, 14 Dec 2015 10:01:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Projekte]]></title>
             <description><![CDATA[<article><h1>Projekte</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f15b4ea0b9ace4eba1d7de99b1345883851f050.jpg"></article>]]></description>
-            <link>undefinedprojekte/index.html</link>
+            <link>https://thegrid.ai/neuerspuki/projekte/index.html</link>
             <guid isPermaLink="false">94456923-2329-476a-a84e-033dad1e16d0</guid>
             <pubDate>Mon, 14 Dec 2015 10:01:26 GMT</pubDate>
         </item>
