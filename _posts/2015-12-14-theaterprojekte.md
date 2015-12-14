@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T12:15:34.078Z'
-dateModified: '2015-12-14T12:15:27.225Z'
+datePublished: '2015-12-14T15:32:26.529Z'
+dateModified: '2015-12-14T12:15:34.078Z'
 title: Theaterprojekte
 author: []
 sourcePath: _posts/2015-12-14-theaterprojekte.md
