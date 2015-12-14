@@ -6,26 +6,26 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T09:51:32.468Z'
-dateModified: '2015-12-14T09:50:02.116Z'
+datePublished: '2015-12-14T11:59:19.765Z'
+dateModified: '2015-12-14T11:59:16.159Z'
 title: Theaterprojekte
 author: []
+sourcePath: _posts/2015-12-14-theaterprojekte.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-14-theaterprojekte.md
-published: true
 url: theaterprojekte/index.html
 _type: WebPage
 
 ---
 # Theaterprojekte
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d2d849c-c4d9-4bda-ac42-6efba30c0ff1.jpg)
 
-Merlin
+**Merlin**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbfcc9f4cd552dfd193e8edde6f383af558c1055.jpg)
 
 Als Sohn des Teufels und einer Riesin soll der als Antichrist gezeugte 
 Merlin eigentlich die Menschen „zum Bösen befreien", doch lehnt er sich 
@@ -40,6 +40,9 @@ die nächste Generation um Sir Mordred und seine Bande sich weigert, die
 Moralvorstellungen und Utopien ihrer Eltern zu übernehmen und 
 stattdessen das Böse predigt, kommt es zur alles entscheidenden 
 Schlacht.
+
+**Törless**
+null
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/162d3b7261693b70aa8c01cec21ecf1f83133867.jpg)
 
 Staatsschauspiel Hamburg  
