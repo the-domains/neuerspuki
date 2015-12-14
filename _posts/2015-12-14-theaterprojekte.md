@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-14T11:59:19.765Z'
-dateModified: '2015-12-14T11:59:16.159Z'
+datePublished: '2015-12-14T12:15:34.078Z'
+dateModified: '2015-12-14T12:15:27.225Z'
 title: Theaterprojekte
 author: []
 sourcePath: _posts/2015-12-14-theaterprojekte.md
@@ -43,10 +43,15 @@ Schlacht.
 
 **Törless**
 null
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/162d3b7261693b70aa8c01cec21ecf1f83133867.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b59281793104735406f35984bb5681499d4b71f3.jpg)
 
 Staatsschauspiel Hamburg  
 ie äußere Handlung schildert Törleß gleich zu Beginn aus der Sicht eines
 auktorialen Erzählers. Laut durchs Mikrofon. Damit es auch jeder 
 mitbekommt. Geht es Regisseur Albrecht Hirche im weiteren Verlauf doch 
 gewiss nicht um eine stringente Wiedergabe des Musil'schen Romans.
+
+**Kampf des Negers und der Hunde**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20bc9104-2157-4185-b5cf-74e9fee48e78.jpg)
+
+jhgdf sdfä sfd sjkdf sdfd fsd fsgdf hsdf
