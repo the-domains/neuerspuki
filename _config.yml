@@ -1,0 +1,28 @@
+name: neuerspuki
+favicon: null
+layout_spectrum: 0.3588437538128346
+typography_spectrum: 0.3606695947237313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3806411393452436
+  lightness: 0.36155772604979575
+  saturation: 0.8373246032278985
+  rhythmicContrast: 0.2808877530042082
+purpose: []
