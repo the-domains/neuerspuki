@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-14T13:18:33.012Z'
-dateModified: '2015-12-14T13:18:22.900Z'
+datePublished: '2015-12-14T15:32:26.115Z'
+dateModified: '2015-12-14T13:18:33.012Z'
 title: Fernsehen
 author: []
 authors: []
