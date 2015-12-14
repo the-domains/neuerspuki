@@ -1,7 +1,7 @@
 name: neuerspuki
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.84843
+typography_spectrum: 0.74265
 title: Sebastian Katzer
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#6c6877'
     - '#de6641'
     - '#a52440'
-  brandStrength: 0.0625
-  lightness: 0.4375
-  saturation: 0.0625
+  brandStrength: 0.125
+  lightness: 0.125
+  saturation: 0.125
   rhythmicContrast: 0.75
 purpose: []
