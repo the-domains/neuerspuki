@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T10:20:55.749Z'
-dateModified: '2015-12-15T10:20:50.623Z'
+datePublished: '2015-12-15T10:24:03.311Z'
+dateModified: '2015-12-15T10:23:59.700Z'
 title: Theaterprojekte
 author: []
 sourcePath: _posts/2015-12-14-theaterprojekte.md
