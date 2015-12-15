@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '© Kai Émile Kaamos & Sebastian Katzer'
-datePublished: '2015-12-15T08:55:56.656Z'
-dateModified: '2015-12-15T08:55:47.366Z'
+datePublished: '2015-12-15T10:12:02.508Z'
+dateModified: '2015-12-15T10:11:53.430Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -24,7 +24,7 @@ app_links:
     package: com.soundcloud.android
   - url: 'soundcloud://sounds:214711583'
     type: android
-title: Roof of the Forest (Katzer/Kaamos) by Sebastian Katzer
+title: Roof of the Forest
 sourcePath: _posts/2015-12-15-roof-of-the-forest-katzerkaamos-by-sebastian-katzer.md
 published: true
 authors: []
