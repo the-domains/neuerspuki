@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/sebastiankatzer/roof-of-the-forest-katzerkaamos'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: '© Kai Émile Kaamos & Sebastian Katzer'
-datePublished: '2015-12-15T08:53:06.748Z'
-dateModified: '2015-12-15T08:52:59.615Z'
+datePublished: '2015-12-15T08:55:56.656Z'
+dateModified: '2015-12-15T08:55:47.366Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -34,6 +33,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: roof-of-the-forest-katzerkaamos-by-sebastian-katzer/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
