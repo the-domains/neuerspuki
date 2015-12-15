@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-14T15:32:26.115Z'
-dateModified: '2015-12-14T13:18:33.012Z'
+datePublished: '2015-12-15T08:53:45.397Z'
+dateModified: '2015-12-15T08:53:42.433Z'
 title: Fernsehen
 author: []
+sourcePath: _posts/2015-12-14-fernsehen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-14-fernsehen.md
-published: true
 url: fernsehen/index.html
 _type: WebPage
 
