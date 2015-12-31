@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T08:53:45.397Z'
-dateModified: '2015-12-15T08:53:42.433Z'
+datePublished: '2015-12-31T20:24:35.498Z'
+dateModified: '2015-12-31T20:24:33.626Z'
 title: Fernsehen
 author: []
 sourcePath: _posts/2015-12-14-fernsehen.md
