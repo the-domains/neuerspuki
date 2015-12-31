@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T18:18:12.063Z'
-dateModified: '2015-12-31T18:18:08.729Z'
+datePublished: '2015-12-31T18:41:42.090Z'
+dateModified: '2015-12-31T18:41:38.967Z'
 title: Projekte
 author: []
 sourcePath: _posts/2015-12-14-theaterprojekte.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: theaterprojekte/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Projekte
