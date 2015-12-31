@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-31T18:15:30.313Z'
-dateModified: '2015-12-31T18:15:27.532Z'
+datePublished: '2015-12-31T18:18:12.063Z'
+dateModified: '2015-12-31T18:18:08.729Z'
 title: Projekte
 author: []
 sourcePath: _posts/2015-12-14-theaterprojekte.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 # Projekte
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/00badd78508a415a322e377ffe5ff17730282712.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e096354bd7cba341f93bd9714da5583df8c35e1.jpg)
 
 **Staatsschauspiel Dresden**
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/358a50a6272ab57e052a9a5b236b2d93/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F6e096354bd7cba341f93bd9714da5583df8c35e1.jpg&width=750)
@@ -40,13 +40,12 @@ heile Welt der ritterlichen Tugenden erste Risse...
 
 ****
 
-# **Törless****Schauspielhaus Hamburg (2014)**
-
+# **Törless**
+**Schauspielhaus Hamburg (2014)**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20bc9104-2157-4185-b5cf-74e9fee48e78.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22e5659a0ad12051aad16c2dd11a2598/passthrough.jpg?height=499&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F559789b7285b89f8c1841d00d1b732e75a36f69b.jpg&width=750)
 
-# Toerless wird fertiggemacht
-
-„Die oft gelobte Kühnheit Musilscher Psychologie zeichnet schon dies erste Werk aus." ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20bc9104-2157-4185-b5cf-74e9fee48e78.jpg)
+„Die oft gelobte Kühnheit Musilscher Psychologie zeichnet schon dies erste Werk aus." 
 
 Schule ist wirklich Scheiße!   
 Nicht 
@@ -56,6 +55,5 @@ sondern auch, weil zwischenmenschliche Erfahrungen dort und in
 Zuckerschlecken sind...
 
 # **Kampf des Negers und der Hunde**
-null
 
 [0]: https://www.youtube.com/watch?v=DxdFg3nEA3o
