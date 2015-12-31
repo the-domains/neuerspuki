@@ -4,8 +4,15 @@
         <description><![CDATA[Sebastian Katzer]]></description>
         <link>https://thegrid.ai/neuerspuki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 18:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 18:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/neuerspuki/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projekte]]></title>
+            <description><![CDATA[<article><h1>Projekte</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/599a4a8436f920fcaafe6015bfc80d657648b739.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neuerspuki/theaterprojekte/index.html</link>
+            <guid isPermaLink="false">d9120540-adbc-4557-aafd-1547751e8c18</guid>
+            <pubDate>Thu, 31 Dec 2015 18:41:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Musik für Theaterproduktionen]]></title>
             <description><![CDATA[<article><h1>Musik für Theaterproduktionen</h1><p>HERR DER FLIEGEN von William Golding
@@ -61,7 +68,7 @@ DURSTIGE VÖGEL von Kristo Šagor
 Volkstheater München (2002)
 DREIER OHNE SIMONE von Kristo Šagor
 Theater Trekjop Berlin (1999)
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbe7d11613fbf11ae670700a193306438c5f7dc2.jpg"></article>]]></description>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a470bb7404bdcb439aac781bd8e9406e98e80b36.jpg"></article>]]></description>
             <link>https://thegrid.ai/neuerspuki/werkverzeichnis/index.html</link>
             <guid isPermaLink="false">655da4eb-b1f2-426c-b53a-ea5e9047afdf</guid>
             <pubDate>Thu, 31 Dec 2015 18:20:01 GMT</pubDate>
