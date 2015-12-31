@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-15T09:38:24.125Z'
-dateModified: '2015-12-15T09:38:09.401Z'
+datePublished: '2015-12-31T20:20:30.937Z'
+dateModified: '2015-12-31T20:20:27.004Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -25,14 +25,14 @@ app_links:
   - url: 'soundcloud://sounds:177390682'
     type: android
 title: Cash Flows
+sourcePath: _posts/2015-12-15-cash-flows.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2015-12-15-cash-flows.md
-published: true
 url: cash-flows/index.html
 _type: AudioObject
 _context: 'http://schema.org'
