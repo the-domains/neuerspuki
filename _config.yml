@@ -1,41 +1,41 @@
-name: neuerspuki
-favicon: null
-layout_spectrum: 0.95691
-typography_spectrum: 0.7114695
 title: Sebastian Katzer
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.1875
+  brandStrength: 0.125
+  rhythmicContrast: 1
   brandColors:
     - '#011334'
     - '#eaebd9'
     - '#6c6877'
     - '#de6641'
     - '#a52440'
-  brandStrength: 0.125
   lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: neuerspuki
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7114695
+layout_spectrum: 0.609319
