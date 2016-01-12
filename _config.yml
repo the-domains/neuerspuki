@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.1875
+  saturation: 0.8028674
   brandStrength: 0.125
-  rhythmicContrast: 1
+  lightness: 0.3942652
   brandColors:
     - '#011334'
     - '#eaebd9'
     - '#6c6877'
     - '#de6641'
     - '#a52440'
-  lightness: 0.3125
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: neuerspuki
 favicon: null
+name: neuerspuki
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.7114695
-layout_spectrum: 0.609319
+typography_spectrum: 0.734767
+layout_spectrum: 0.9659498
