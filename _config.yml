@@ -1,6 +1,6 @@
 name: neuerspuki
 favicon: null
-layout_spectrum: 0.88805
+layout_spectrum: 0.19089
 typography_spectrum: 0.3172043
 title: Sebastian Katzer
 collections:
@@ -34,8 +34,8 @@ color:
     - '#6c6877'
     - '#de6641'
     - '#a52440'
-  brandStrength: 0.1875
-  lightness: 0.375
+  brandStrength: 0.125
+  lightness: 0.75
   saturation: 0.125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
