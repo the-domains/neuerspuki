@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T09:47:21.578Z'
-dateModified: '2016-02-23T09:47:19.699Z'
+datePublished: '2016-02-23T10:07:46.939Z'
+dateModified: '2016-02-23T10:07:44.616Z'
 title: 'Werkverzeichnis '
 author: []
 sourcePath: _posts/2016-02-23-werkverzeichnis.md
@@ -22,6 +22,7 @@ url: werkverzeichnis/index.html
 _type: WebPage
 
 ---
+## Musik fürs Theater
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec8b3f1-79ba-4799-8fc5-1fa5d2e4e8b1.jpg)
 
 HERR DER
@@ -125,3 +126,13 @@ München (2002)
 DREIER OHNE SIMONE von Kristo Šagor  
 Theater
 Trekjop, Kulturhaus Spandau, Berlin (1999)
+
+## Musik fürs Fernsehen
+
+Arbeiten für ARD, ZDF,
+SAT.1, ProSieben, VOX, Arte und weitere öffentlich-rechtliche und private
+Sender. Musikproduktion für verschiedene Formate, wie Talk (Günther Jauch, Anne
+Will), Dokumentationen & Reportagen, Magazinbeiträge und Trailer.
+
+Auftragsarbeiten für die Verlage Sonoton, ROBA,
+UBM MEDIA und Intervox.
