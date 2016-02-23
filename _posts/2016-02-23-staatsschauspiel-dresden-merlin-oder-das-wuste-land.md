@@ -6,8 +6,8 @@ inLanguage: de
 starred: false
 keywords: []
 description: 'von Tankred Dorst | mit Dresdner Jugendlichen | Regie: Kristo Šagor '
-datePublished: '2016-02-23T13:39:16.733Z'
-dateModified: '2016-02-23T13:38:52.957Z'
+datePublished: '2016-02-23T13:42:51.837Z'
+dateModified: '2016-02-23T13:39:25.994Z'
 author: []
 related: []
 app_links: []
