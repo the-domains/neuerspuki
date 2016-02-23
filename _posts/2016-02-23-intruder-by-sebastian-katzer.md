@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://soundcloud.com/sebastiankatzer/intruder'
 inLanguage: null
 starred: false
 keywords: []
-description: Stream Intruder by Sebastian Katzer from desktop or your mobile device
-datePublished: '2016-02-23T09:31:16.733Z'
-dateModified: '2016-02-23T09:26:19.078Z'
+description: ''
+datePublished: '2016-02-23T09:33:28.844Z'
+dateModified: '2016-02-23T09:33:24.554Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -51,7 +51,7 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Intruder by Sebastian Katzer
+title: 'Intruder '
 sourcePath: _posts/2016-02-23-intruder-by-sebastian-katzer.md
 published: true
 authors: []
