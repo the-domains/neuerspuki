@@ -1,14 +1,10 @@
 ---
-author:
-  - name: formant
-    url: 'https://www.youtube.com/channel/UCP4Z1PkPog0idPZqiHmCwUQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=DxdFg3nEA3o'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -20,8 +16,14 @@ keywords:
   - selfie
   - 095
   - huw
-description: Uploaded by formant on 2016-02-23.
-inLanguage: en
+description: ' '
+datePublished: '2016-02-23T10:15:29.414Z'
+dateModified: '2016-02-23T10:15:13.742Z'
+author:
+  - name: formant
+    url: 'https://www.youtube.com/channel/UCP4Z1PkPog0idPZqiHmCwUQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=DxdFg3nEA3o&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=DxdFg3nEA3o'
-title: 'Merlin oder Das wüste Land - Staatsschauspiel Dresden | Bürgerbühne'
-datePublished: '2016-02-23T10:13:03.897Z'
-dateModified: '2016-02-23T10:11:51.601Z'
+title: Merlin oder Das wüste Land
 sourcePath: _posts/2016-02-23-merlin-oder-das-wuste-land-staatsschauspiel-dresden-or-burg.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
