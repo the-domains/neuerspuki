@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T10:33:35.038Z'
-dateModified: '2016-02-23T10:33:28.934Z'
+datePublished: '2016-02-23T10:34:06.908Z'
+dateModified: '2016-02-23T10:33:51.894Z'
 author: []
 related: []
 app_links: []
 title: Cinderella Castle
+sourcePath: _posts/2016-02-23-cinderella-castle.md
+published: true
 authors: []
 publisher:
   name: Google Maps
   domain: www.google.de
   url: 'http://google.com/maps'
   favicon: 'https://www.google.com/images/branding/product/ico/maps_32dp.ico'
-sourcePath: _posts/2016-02-23-cinderella-castle.md
-published: true
 _type: Place
 _context: 'http://schema.org'
 
