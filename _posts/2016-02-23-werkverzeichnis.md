@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T08:36:07.650Z'
-dateModified: '2016-02-23T08:35:44.437Z'
-title: Werkverzeichnis
+datePublished: '2016-02-23T08:44:54.087Z'
+dateModified: '2016-02-23T08:44:20.023Z'
+title: Werkverzeichnis Theater
 author: []
 sourcePath: _posts/2016-02-23-werkverzeichnis.md
 published: true
@@ -22,7 +22,7 @@ url: werkverzeichnis/index.html
 _type: WebPage
 
 ---
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec8b3f1-79ba-4799-8fc5-1fa5d2e4e8b1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec8b3f1-79ba-4799-8fc5-1fa5d2e4e8b1.jpg)
 
 HERR DER
 FLIEGEN von William Golding  
