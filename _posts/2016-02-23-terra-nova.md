@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://soundcloud.com/sebastiankatzer/terra-nova'
 inLanguage: null
 starred: false
 keywords: []
-description: "Where no man's been before.... © Kai Émile Kaamos & Sebastian Katzer"
-datePublished: '2016-02-23T08:53:57.359Z'
-dateModified: '2016-02-23T08:53:57.014Z'
+description: "Where no man's been before.... "
+datePublished: '2016-02-23T12:48:32.882Z'
+dateModified: '2016-02-23T09:01:41.216Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -60,6 +59,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: terra-nova/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
