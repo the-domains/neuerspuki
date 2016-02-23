@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.staatsschauspiel-dresden.de/spielplan/merlin_oder_das_wueste_land/'
+hasPage: true
+inNav: true
 inLanguage: de
 starred: false
 keywords: []
-description: 'von Tankred Dorst | mit Dresdner Jugendlichen | Regie: Kristo Šagor | Premiere am 27. September 2014 | Kleines Haus 2 Die Bürgerbühne „Merlin ist ein Vogel. Und er ist auch wieder kein Vogel. Merlin ist ein Gedanke, der durch den Kopf fliegt. Merlin ist etwas, das seine Gestalt verändert.'
-datePublished: '2016-02-23T13:26:08.436Z'
-dateModified: '2016-02-23T13:26:06.034Z'
+description: 'von Tankred Dorst | mit Dresdner Jugendlichen | Regie: Kristo Šagor '
+datePublished: '2016-02-23T13:26:56.434Z'
+dateModified: '2016-02-23T13:26:44.226Z'
 author: []
 related: []
 app_links: []
-title: Staatsschauspiel Dresden - Merlin oder Das wüste Land
+title: Merlin oder Das wüste Land
+sourcePath: _posts/2016-02-23-staatsschauspiel-dresden-merlin-oder-das-wuste-land.md
+published: true
 authors: []
 publisher:
   name: Staatsschauspiel-dresden
   domain: www.staatsschauspiel-dresden.de
   url: 'http://www.staatsschauspiel-dresden.de'
   favicon: 'http://www.staatsschauspiel-dresden.de/favicon.ico'
-sourcePath: _posts/2016-02-23-staatsschauspiel-dresden-merlin-oder-das-wuste-land.md
-published: true
+url: merlin-oder-das-wuste-land/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
