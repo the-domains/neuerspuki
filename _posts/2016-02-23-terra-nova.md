@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Where no man's been before.... © Kai Émile Kaamos & Sebastian Katzer"
-datePublished: '2016-02-23T08:51:24.763Z'
-dateModified: '2016-02-23T08:51:18.162Z'
+datePublished: '2016-02-23T08:53:57.359Z'
+dateModified: '2016-02-23T08:53:57.014Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Terra Nova
+sourcePath: _posts/2016-02-23-terra-nova.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-02-23-terra-nova.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
