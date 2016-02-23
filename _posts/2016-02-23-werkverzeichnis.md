@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T10:07:46.939Z'
-dateModified: '2016-02-23T10:07:44.616Z'
+datePublished: '2016-02-23T14:23:05.780Z'
+dateModified: '2016-02-23T14:11:41.917Z'
 title: 'Werkverzeichnis '
 author: []
 sourcePath: _posts/2016-02-23-werkverzeichnis.md
