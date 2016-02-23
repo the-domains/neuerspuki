@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Stream Intruder by Sebastian Katzer from desktop or your mobile device
-datePublished: '2016-02-23T08:59:59.254Z'
-dateModified: '2016-02-23T08:57:59.040Z'
+datePublished: '2016-02-23T09:01:19.689Z'
+dateModified: '2016-02-23T09:01:11.783Z'
 author:
   - name: Sebastian Katzer
     url: 'http://soundcloud.com/sebastiankatzer'
@@ -64,6 +64,4 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-Überschrift Intruder
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F177395577%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fsebastiankatzer%2Fintruder&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000099309074-ju2dg5-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
