@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T08:44:54.087Z'
-dateModified: '2016-02-23T08:44:20.023Z'
-title: Werkverzeichnis Theater
+datePublished: '2016-02-23T09:47:21.578Z'
+dateModified: '2016-02-23T09:47:19.699Z'
+title: 'Werkverzeichnis '
 author: []
 sourcePath: _posts/2016-02-23-werkverzeichnis.md
 published: true
