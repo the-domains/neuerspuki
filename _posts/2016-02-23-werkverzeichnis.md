@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T08:18:15.479Z'
-dateModified: '2016-02-23T08:18:02.998Z'
+datePublished: '2016-02-23T08:25:05.334Z'
+dateModified: '2016-02-23T08:24:33.068Z'
 title: Werkverzeichnis
 author: []
+sourcePath: _posts/2016-02-23-werkverzeichnis.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-werkverzeichnis.md
-published: true
 url: werkverzeichnis/index.html
 _type: WebPage
 
 ---
-## Werkverzeichnis
+## Werkverzeichnis Theater
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ec8b3f1-79ba-4799-8fc5-1fa5d2e4e8b1.jpg)
 
 HERR DER
