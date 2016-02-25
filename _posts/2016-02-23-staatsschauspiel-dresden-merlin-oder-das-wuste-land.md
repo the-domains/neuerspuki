@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: de
 starred: false
 keywords: []
 description: 'von Tankred Dorst | mit Dresdner Jugendlichen | Regie: Kristo Šagor '
-datePublished: '2016-02-25T14:11:55.020Z'
-dateModified: '2016-02-25T14:11:52.977Z'
+datePublished: '2016-02-25T14:13:40.732Z'
+dateModified: '2016-02-25T14:13:31.366Z'
 author: []
 related: []
 app_links: []
